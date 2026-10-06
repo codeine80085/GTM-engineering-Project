@@ -1,0 +1,213 @@
+{
+  "name": null,
+  "title": null,
+  "company": null,
+  "contact": {
+    "email": [
+      "be@breakthroughenergy.org",
+      "kristin.joseph@gatesfoundation.org"
+    ],
+    "phone": [
+      "+18455846030"
+    ]
+  },
+  "signals": {
+    "summary": "This is a collection of 20 LinkedIn posts from Bill Gates spanning early May 2026. The posts primarily focus on thought leadership across several domains: climate technology (contrails reduction, clean steel, geothermal energy, energy-efficient windows), global health initiatives (maternal health tools, malaria treatment for infants, stillbirth prevention, Ebola outbreak response), AI equity partnerships with major tech companies (OpenAI, Google, Anthropic), cancer research facilities, vaccine impact, and personal reflections on teachers and Ted Turner's philanthropic legacy. The Gates Foundation announced a $15M commitment for Ebola response and partnerships with Anthropic for AI equity. Multiple posts highlight new health technologies and tools being deployed in low- and middle-income countries. The content demonstrates active thought leadership in climate, health, and technology sectors with some funding announcements and partnership activities.",
+    "platforms": {
+      "x": {
+        "posts": [],
+        "coverage": "unavailable",
+        "posts_analyzed": 0,
+        "coverage_reason": "no_handle",
+        "posts_available": 0,
+        "max_posts_reached": false
+      },
+      "linkedin": {
+        "posts": [
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_contrailsorg-impact-explorer-activity-7465966200704131073-9uJj",
+            "text": "Contrails—the white streaks planes leave in the sky—account for an estimated 1–2% of human-caused warming. They’re also a relatively simple climate problem to address.\n\nContrails.org, a Breakthrough Energy program, has launched a new Impact Explorer developed with support from Google.org. It shows airlines which small flight adjustments would have the biggest impact on their emissions, without changing how people fly.",
+            "likes": 638,
+            "post_id": "7465966200704131073",
+            "posted_at": "2026-05-29T03:24:13.192+00:00",
+            "linkedin_reactions_count": 638
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_steel-is-one-of-the-hardest-industries-to-activity-7465593527092285440-8WaA",
+            "text": "Steel is one of the hardest industries to decarbonize, which makes it a useful test case for clean tech more broadly. To succeed, “clean” steel needs to perform as well as the steel we use today—while eventually costing less. That’s the kind of challenge Breakthrough Energy was built to solve.",
+            "likes": 2826,
+            "post_id": "7465593527092285440",
+            "posted_at": "2026-05-28T02:43:20.879+00:00",
+            "linkedin_reactions_count": 2826
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_making-a-podcast-helped-one-family-talk-about-activity-7464513181265125376-jf6a",
+            "text": "I felt so powerless and scared when my dad was diagnosed with Alzheimer’s. It’s hard to process, and even harder to talk about, when it’s your loved one going through it. Colby’s episode captures that reality beautifully.",
+            "likes": 2136,
+            "post_id": "7464513181265125376",
+            "posted_at": "2026-05-25T03:10:26.362+00:00",
+            "linkedin_reactions_count": 2136
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_ebola-response-funding-announcement-activity-7464044919683436544-HlC6",
+            "text": "Governments across DRC and Uganda, together with frontline responders, Africa CDC, WHO, and regional partners, are doing urgent work to contain the Bundibugyo Ebola outbreak and protect communities at risk. The Gates Foundation is making an initial $15M commitment to support their efforts—helping partners move quickly, coordinate across borders, and get critical resources to the people and health workers facing the greatest risk.",
+            "likes": 2590,
+            "post_id": "7464044919683436544",
+            "posted_at": "2026-05-23T20:09:44.101+00:00",
+            "linkedin_reactions_count": 2590
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_mothers-wont-die-babies-can-survive-activity-7463323795081056257-Juti",
+            "text": "When a mother faces complications during and after childbirth, every minute matters. In a place like Cox’s Bazar, bringing the right care closer to her can make a world of difference and save lives.",
+            "likes": 1490,
+            "post_id": "7463323795081056257",
+            "posted_at": "2026-05-21T20:24:14.598+00:00",
+            "linkedin_reactions_count": 1490
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_in-many-parts-of-the-world-the-standard-activity-7462665106229727232-ud0G",
+            "text": "In many parts of the world, the standard $20,000 fetal monitor simply isn't an option. This portable alternative uses AI to help health workers get accurate readings at a fraction of the cost—no specialized training required. It can spot warning signs like a slow fetal heartbeat in time to consult a specialist, begin treatment, or get a mother to a hospital. In maternal health, that can mean the difference between a dangerous complication and a healthy birth.",
+            "likes": 5858,
+            "post_id": "7462665106229727232",
+            "posted_at": "2026-05-20T00:46:50.938+00:00",
+            "linkedin_reactions_count": 5858
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_i-may-know-a-thing-or-two-about-windows-activity-7461862112194375680-4X3Y",
+            "text": "I may know a thing or two about Windows, but LuxWall, Inc. is rethinking them completely—by conserving energy and helping customers save money.",
+            "likes": 4488,
+            "post_id": "7461862112194375680",
+            "posted_at": "2026-05-17T19:36:02.241+00:00",
+            "linkedin_reactions_count": 4488
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_new-tools-to-reduce-stillbirths-bill-gates-activity-7461149119156346881-zz3a",
+            "text": "In many low- and middle-income countries, stillbirth rates haven’t meaningfully improved in 25 years. But new tools can help detect risks earlier and save lives.",
+            "likes": 1274,
+            "post_id": "7461149119156346881",
+            "posted_at": "2026-05-15T20:22:51.454+00:00",
+            "linkedin_reactions_count": 1274
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_ai-for-equity-activity-7460832194299715584-pnqa",
+            "text": "AI is moving faster than any technology I've seen. But the people who stand to gain the most—farmers, health workers, teachers and students, particularly in low-income countries—are still getting left out. The Gates Foundation is partnering with companies shaping this technology, like OpenAI, Google, and now Anthropic to make sure make sure we’re building AI tools that deliver practical, real-world solutions for the people and systems that need them most: https://gates.ly/4wx7QVj",
+            "likes": 2587,
+            "post_id": "7460832194299715584",
+            "posted_at": "2026-05-14T23:23:30.68+00:00",
+            "linkedin_reactions_count": 2587
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_when-i-visited-cape-station-with-tim-latimer-activity-7460555870427385856-3DGt",
+            "text": "When I visited Cape Station with Tim Latimer, I saw how Fervo Energy is making geothermal a real option in more places.\n\nThis milestone is a big deal. We need clean energy that’s reliable, affordable, works everywhere, and can be deployed at scale. That’s how you power growth, expand opportunity, and ultimately improve lives: https://nyti.ms/4uSdsYJ",
+            "likes": 3470,
+            "post_id": "7460555870427385856",
+            "posted_at": "2026-05-14T05:05:29.935+00:00",
+            "linkedin_reactions_count": 3470
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_first-malaria-drug-for-babies-is-approved-activity-7460086251811917824-F-7O",
+            "text": "A lot of global health progress comes from asking a simple question: Who’s been left out? ​\n​\nFor malaria, the answer is newborns. Antimalarial treatments haven’t historically been formulated for babies, leaving doctors to rely on smaller doses of medicines designed for older children.​\n​\nCoartem Baby changes that. It's the first malaria treatment designed specifically for newborns and young infants, and its WHO prequalification is a chance to close a dangerous gap in care.",
+            "likes": 1432,
+            "post_id": "7460086251811917824",
+            "posted_at": "2026-05-12T21:59:24.132+00:00",
+            "linkedin_reactions_count": 1432
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_the-significant-decrease-in-child-deaths-activity-7459433139774312448-0B8s",
+            "text": "The significant decrease in child deaths over the last few decades shows the kind of progress the world is capable of. But stillbirth rates remain stubbornly high in places like sub-Saharan Africa, even though they’re often preventable: https://lnkd.in/gVfX6TbX",
+            "likes": 3044,
+            "post_id": "7459433139774312448",
+            "posted_at": "2026-05-11T02:44:10.088+00:00",
+            "linkedin_reactions_count": 3044
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_transforming-the-fight-against-cancer-activity-7459026530342576129-2PBq",
+            "text": "For patients facing cancer, options are invaluable. This new facility will help accelerate research on targeted therapies, so breakthroughs reach patients sooner.",
+            "likes": 1993,
+            "post_id": "7459026530342576129",
+            "posted_at": "2026-05-09T23:48:26.845+00:00",
+            "linkedin_reactions_count": 1993
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_the-remidioretinal-scanner-shows-how-even-activity-7458611371400749057-ic0T",
+            "text": "The Remidio retinal scanner shows how even the smallest innovations can have an outsized impact on maternal care. It’s a portable, battery-operated camera that captures high-resolution images of the retina in seconds. By flagging early signs of conditions like high blood pressure or diabetes, it helps pregnant mothers get care faster.",
+            "likes": 9434,
+            "post_id": "7458611371400749057",
+            "posted_at": "2026-05-08T20:18:45.24+00:00",
+            "linkedin_reactions_count": 9434
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_the-brilliant-teachers-who-shaped-me-bill-activity-7458328942190522369-f3og",
+            "text": "Mr. Stocklin was my eighth-grade math teacher, and he changed my life by kickstarting two of the most important relationships of my early years: my friendship with my best friend Kent, and my introduction to computing. \n\nYou don’t always realize it at the time, but teachers shape so much of who we become. Mr. Stocklin’s impact on me is just one example of the lasting influence educators have far beyond the classroom.",
+            "likes": 1780,
+            "post_id": "7458328942190522369",
+            "posted_at": "2026-05-08T01:36:28.869+00:00",
+            "linkedin_reactions_count": 1780
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_i-admired-ted-turner-as-a-businessman-and-activity-7457927641241784320-lsXp",
+            "text": "I admired Ted Turner as a businessman, and I was inspired by him as a philanthropist. He raised the bar for giving while living, committing more than $1.5 billion to promote peace, improve children’s health, preserve the environment, and much more. I learned something from him every time we got together. I especially enjoyed our work together on polio eradication. The impact of his giving will be felt around the world for decades to come.",
+            "likes": 3785,
+            "post_id": "7457927641241784320",
+            "posted_at": "2026-05-06T23:01:51.267+00:00",
+            "linkedin_reactions_count": 3785
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_teacherslikemrfernandezwho-connect-math-activity-7457625063518003200-CwKQ",
+            "text": "Teachers like Mr. Fernandez—who connect math fundamentals to students' everyday lives are shaping the next generation of problem solvers. That’s exactly the kind of impact worth celebrating this Teacher Appreciation Week.",
+            "likes": 2714,
+            "post_id": "7457625063518003200",
+            "posted_at": "2026-05-06T02:59:31.116+00:00",
+            "linkedin_reactions_count": 2714
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_in-many-low-and-middle-income-countries-activity-7456920850378706945-w7cN",
+            "text": "In many low- and middle-income countries, stillbirth rates haven’t meaningfully improved in 25 years. But new tools can help detect risks earlier and save lives.",
+            "likes": 3651,
+            "post_id": "7456920850378706945",
+            "posted_at": "2026-05-04T04:21:13.62+00:00",
+            "linkedin_reactions_count": 3651
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_some-numbers-are-hard-to-imagine-until-activity-7456465975518056449-5h6_",
+            "text": "The impact of vaccines is bigger than you think.",
+            "likes": 1944,
+            "post_id": "7456465975518056449",
+            "posted_at": "2026-05-02T22:13:43.002+00:00",
+            "linkedin_reactions_count": 1944
+          },
+          {
+            "url": "https://www.linkedin.com/posts/williamhgates_my-favorite-chart-in-global-health-shows-activity-7456139374921961472-qQpK",
+            "text": "My favorite chart in global health shows how under-five mortality has been cut in half since the turn of the century, from over 10 million deaths in 2000 to fewer than 5 million in 2023. It’s the strongest evidence we have that progress is possible, even in tough times. But that chart doesn’t tell the whole story. Because every year, about 2 million pregnancies end in stillbirth—and the progress made to prevent these tragedies has been much slower.",
+            "likes": 3704,
+            "post_id": "7456139374921961472",
+            "posted_at": "2026-05-02T00:35:55.352+00:00",
+            "linkedin_reactions_count": 3704
+          }
+        ],
+        "coverage": "full",
+        "posts_analyzed": 20,
+        "coverage_reason": null,
+        "posts_available": 20,
+        "max_posts_reached": true
+      },
+      "instagram": {
+        "posts": [],
+        "coverage": "unavailable",
+        "posts_analyzed": 0,
+        "coverage_reason": "no_handle",
+        "posts_available": 0,
+        "max_posts_reached": false
+      }
+    },
+    "intent_signals": [
+      "thought_leadership",
+      "funding",
+      "partnership",
+      "product_launch"
+    ]
+  },
+  "headline": null,
+  "seniority": null,
+  "company_domain": null
+}

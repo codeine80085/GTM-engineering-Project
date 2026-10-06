@@ -1,0 +1,609 @@
+{
+  "data": [
+    {
+      "name": "BarRaiser",
+      "domain": "barraiser.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "not_detected",
+          "summary": "The provided evidence describes BarRaiser as an interview platform for hiring managers and HR professionals but does not contain information indicating that the company itself is currently hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/raiserbar/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Menlo Park, California",
+      "description": "BarRaiser is an Intelligent Interview Platform leading the charge in revolutionizing the interviewing process. As a B2B SaaS provider, our vision is to create a seamless and future-ready interviewing experience for Hiring Managers, HR...",
+      "linkedinUrl": "https://www.linkedin.com/company/raiserbar/",
+      "employeeCount": null
+    },
+    {
+      "name": "Zilliant",
+      "domain": "zilliant.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/zilliant/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Austin, TX",
+      "description": "Zilliant delivers AI-driven pricing that helps B2B companies gain clarity, protect margins, and make faster decisions. With governed workflows and real-time intelligence, organizations can scale pricing with confidence—from core price...",
+      "linkedinUrl": "https://www.linkedin.com/company/zilliant/",
+      "employeeCount": null
+    },
+    {
+      "name": "Coohom",
+      "domain": "coohom.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/coohom/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "New York, NY",
+      "description": "Coohom is an industry-leading 3D visualization & interior design platform that allows companies and designers to easily...",
+      "linkedinUrl": "https://www.linkedin.com/company/coohom/",
+      "employeeCount": null
+    },
+    {
+      "name": "KIBO",
+      "domain": "kibocommerce.linkedin.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/kibocommerce/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Austin, Texas",
+      "description": "...commerce platform supporting experiences that span Order Management, eCommerce, and Subscriptions. Companies like Zwilling...",
+      "linkedinUrl": "https://www.linkedin.com/company/kibocommerce/",
+      "employeeCount": null
+    },
+    {
+      "name": "Artisan",
+      "domain": "artisan.co",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/artisanai/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco",
+      "description": "...+ verified B2B contacts, enriching across 22+ data sources, writing personalized sequences, handling replies, and booking...",
+      "linkedinUrl": "https://www.linkedin.com/company/artisanai/",
+      "employeeCount": null
+    },
+    {
+      "name": "Rattle",
+      "domain": "gorattle.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/gorattle/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco",
+      "description": "...Slack or MS Teams.  Thousands of revenue leaders at leading companies, including Gong, Clearbit, WordPress, Zenefits...",
+      "linkedinUrl": "https://www.linkedin.com/company/gorattle/",
+      "employeeCount": null
+    },
+    {
+      "name": "WLCM \"Welcome\" App Studio",
+      "domain": "wlcm-app-studio.linkedin.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/wlcm-app-studio/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, California",
+      "description": "Top US-based App Design and Development Agency. An Inc 5000 company, one of the fastest growing private companies...",
+      "linkedinUrl": "https://www.linkedin.com/company/wlcm-app-studio/",
+      "employeeCount": null
+    },
+    {
+      "name": "Orderful",
+      "domain": "orderful.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/orderful/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, California",
+      "description": "...or a growing D2C brand.   More than 400+ companies, including Koch Industries, Liquid Death, Caraway, Stord, Hirschbach, and NFI...",
+      "linkedinUrl": "https://www.linkedin.com/company/orderful/",
+      "employeeCount": null
+    },
+    {
+      "name": "Front",
+      "domain": "front.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/fronthq/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, California",
+      "description": "...the coordination and context behind complex B2B customer relationships.  Over 9,000 companies, including Uber Freight, Navan...",
+      "linkedinUrl": "https://www.linkedin.com/company/fronthq/",
+      "employeeCount": null
+    },
+    {
+      "name": "Paragon",
+      "domain": "useparagon.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/useparagon/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Embedded Software Products",
+      "location": "Los Angeles",
+      "description": "Ship every integration your customers need with Paragon's embedded integration infrastructure for B2B software products.",
+      "linkedinUrl": "https://www.linkedin.com/company/useparagon/",
+      "employeeCount": null
+    },
+    {
+      "name": "SaaS Mingle",
+      "domain": "saasmingle.io",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/saas-mingle/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": null,
+      "description": "SaaS Mingle is a community platform designed for SaaS companies and other B2B brands to enhance the ROI of their content marketing efforts. It provides a space for them to connect, share links, and increase their search traffic.",
+      "linkedinUrl": "https://www.linkedin.com/company/saas-mingle/",
+      "employeeCount": null
+    },
+    {
+      "name": "Authenticx",
+      "domain": "authenticx.linkedin.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/authenticx/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Indianapolis, Indiana",
+      "description": "Millions of conversations. One source of intelligence • Specialties: Software-as-a-Service (SaaS)",
+      "linkedinUrl": "https://www.linkedin.com/company/authenticx/",
+      "employeeCount": null
+    },
+    {
+      "name": "B2B Sales VP",
+      "domain": "b2bsalesvp.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/b2b-sales-vp/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": null,
+      "description": "You're a  -CEO or Founder  -VP of Sales  -Investor    in a B2B software or SaaS company.    I provide services and act as a part-time player-coach sales leader for B2B software and SaaS companies with field, inside and partner sales...",
+      "linkedinUrl": "https://www.linkedin.com/company/b2b-sales-vp/",
+      "employeeCount": null
+    },
+    {
+      "name": "Contify",
+      "domain": "contify.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/contify/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "New York, United States",
+      "description": "Contify is a market and competitive intelligence (M&CI) software that helps companies discover what’s changing...",
+      "linkedinUrl": "https://www.linkedin.com/company/contify/",
+      "employeeCount": null
+    },
+    {
+      "name": "Aligned",
+      "domain": "alignedup.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/alignedup/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Remote First",
+      "description": "Aligned is pioneering the new way that B2B revenue teams interact with customers in today's remote, digital era...",
+      "linkedinUrl": "https://www.linkedin.com/company/alignedup/",
+      "employeeCount": null
+    },
+    {
+      "name": "ProProfs",
+      "domain": "proprofs.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/proprofs/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Santa Monica, Calfornia",
+      "description": "ProProfs is a leading provider of SaaS software designed to create smarter employees and happier customers...",
+      "linkedinUrl": "https://www.linkedin.com/company/proprofs/",
+      "employeeCount": null
+    },
+    {
+      "name": "Maxio",
+      "domain": "maxio.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/wearemaxio/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Atlanta, Georgia",
+      "description": "At Maxio, we help B2B SaaS companies unlock their next stage of growth 🚀.   Our financial operations platform is designed to meet the unique financial challenges of B2B SaaS, including billing, subscription management, revenue and expense...",
+      "linkedinUrl": "https://www.linkedin.com/company/wearemaxio/",
+      "employeeCount": null
+    },
+    {
+      "name": "SaaS Labs",
+      "domain": "saaslabs.co",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/saas-labs/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Palo Alto, California",
+      "description": "...work more productive and enjoyable for everyone!  We're a fast-growing tech company with a suite of software solutions...",
+      "linkedinUrl": "https://www.linkedin.com/company/saas-labs/",
+      "employeeCount": null
+    },
+    {
+      "name": "SaaS Growth Strategies",
+      "domain": "saas-growth-strategies.beehiiv.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/saasgrowthstrategies/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, CA",
+      "description": "Breakdown of strategies used by the best SaaS companies. Get in-depth breakdown of SaaS growth strategies in our newslet",
+      "linkedinUrl": "https://www.linkedin.com/company/saasgrowthstrategies/",
+      "employeeCount": null
+    },
+    {
+      "name": "Orbital",
+      "domain": "withorbital.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/withorbital/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, CA",
+      "description": "We're the Zoominfo for companies selling to SMBs.",
+      "linkedinUrl": "https://www.linkedin.com/company/withorbital/",
+      "employeeCount": null
+    },
+    {
+      "name": "Prismatic",
+      "domain": "prismatic.io",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/prismatic-io/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Sioux Falls, South Dakota",
+      "description": "Prismatic is the leading embedded iPaaS, enabling B2B SaaS teams to ship product integrations faster and with less dev...",
+      "linkedinUrl": "https://www.linkedin.com/company/prismatic-io/",
+      "employeeCount": null
+    },
+    {
+      "name": "TeamSupport",
+      "domain": "teamsupport.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/teamsupport-com/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "Dallas, Texas",
+      "description": "TeamSupport helps B2B companies turn customer interactions into account-level revenue intelligence.  Your CRM owns the handshake, TeamSupport owns the marriage. Our platform unifies onboarding, support, and success functions, transforming...",
+      "linkedinUrl": "https://www.linkedin.com/company/teamsupport-com/",
+      "employeeCount": null
+    },
+    {
+      "name": "Walnut",
+      "domain": "walnut.io",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/teamwalnut/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "New York",
+      "description": "Walnut helps SaaS companies simplify the sales process for their buyers by showcasing the value of their products in engaging, personalized, and interactive product demos.   The demo phase is one of the most crucial steps in any B2B...",
+      "linkedinUrl": "https://www.linkedin.com/company/teamwalnut/",
+      "employeeCount": null
+    },
+    {
+      "name": "IceCreamLabs",
+      "domain": "icecreamlabs.com",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/icecreamlabs/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, CA",
+      "description": "Icecream Labs is a venture studio focused on launching AI-native companies that solve practical, high-leverage problems in enterprise and B2B environments.  Originally founded as an enterprise AI solutions firm, Icecream Labs spent four...",
+      "linkedinUrl": "https://www.linkedin.com/company/icecreamlabs/",
+      "employeeCount": null
+    },
+    {
+      "name": "AI bees",
+      "domain": "ai-bees.io",
+      "signals": [
+        {
+          "type": "hiring",
+          "scope": "company",
+          "status": "unknown",
+          "summary": "No evidence was collected for hiring.",
+          "evidence": []
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/aibees-io/",
+          "type": "linkedin"
+        }
+      ],
+      "industry": "Software Development",
+      "location": "San Francisco, California",
+      "description": "...lookalike companies, we enhance your account and use it to target prospects that are similar to your best clients. Our AI solution would identify lookalike companies and find opportunities to promote your solution or services.   AI Harvest...",
+      "linkedinUrl": "https://www.linkedin.com/company/aibees-io/",
+      "employeeCount": null
+    }
+  ],
+  "meta": {
+    "resultCount": 25,
+    "providerOutcome": "hit",
+    "providerFailures": 0
+  }
+}

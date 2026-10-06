@@ -1,0 +1,692 @@
+[
+  {
+    "operationId": "1228df03-6c10-43be-a05f-72041c2908de",
+    "data": {
+      "data": [
+        {
+          "name": "EffectHub",
+          "domain": "effecthub.com",
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/effecthub/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Computer Games",
+          "location": "Beijing, Beijing",
+          "description": "...gaming SaaS service which are widely used by thousands of gaming companies worldwide including Tencent, Netease, Alibaba, ByteDance, EA etc.  EffectHub entered the final-round (top 8%) interview in Y Combinator China 2019 fund.  In 2021...",
+          "linkedinUrl": "https://www.linkedin.com/company/effecthub/",
+          "employeeCount": null
+        }
+      ],
+      "meta": {
+        "resultCount": 1,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "bae02475-1c30-4d3e-a65a-ced07cef9311",
+    "data": {
+      "data": [
+        {
+          "name": "SaaS Labs",
+          "domain": "saaslabs.co",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-labs/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Palo Alto, California",
+          "description": "...work more productive and enjoyable for everyone!  We're a fast-growing tech company with a suite of software solutions, adored by businesses of every scale...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-labs/",
+          "employeeCount": null
+        },
+        {
+          "name": "SAAS Berkeley",
+          "domain": "saas.berkeley.edu",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saasberkeley/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Berkeley, California",
+          "description": "..., our organization has helped clients make sustainable business and technology optimizations with companies such as Taco Bell and Indeed.  SAAS alumni can be found...",
+          "linkedinUrl": "https://www.linkedin.com/company/saasberkeley/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS",
+          "domain": "saas-app.io",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/misr-cloud/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Cairo",
+          "description": "SAAS for digital content   founded in 2022 , our mission & target is to help & transform companies to digitize their process to save time , money & effort...",
+          "linkedinUrl": "https://www.linkedin.com/company/misr-cloud/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Production",
+          "domain": "saas-production.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-production/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "LUNAS",
+          "description": "At SaaS Production, our aim is to deliver excellent software solutions that are reliable, scalable and tailored to your specific needs. We are your single point of contact for all your software development needs. As a software development company, we offer a range of services to help companies of all sizes achieve...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-production/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Network",
+          "domain": "saas-network.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saasnetwork/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "San Francisco, California",
+          "description": "..., concepts and services  to people, groups and companies around the world.  The SaaS Network is that support all professionals crave.  Vision   The SaaS Network is a non-profit organization that was created to fulfill on the promise of empowering and supporting Sales and Marketing professionals with in the SaaS...",
+          "linkedinUrl": "https://www.linkedin.com/company/saasnetwork/",
+          "employeeCount": null
+        }
+      ],
+      "meta": {
+        "resultCount": 5,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "c88f1762-c017-4319-8029-3bdbcd2ee0e7",
+    "data": {
+      "data": [
+        {
+          "name": "Rana Gujral",
+          "title": "Chief Executive Officer",
+          "company": {
+            "name": "Behavioral Signals",
+            "domain": null,
+            "industry": null,
+            "linkedinUrl": "https://www.linkedin.com/company/17885620",
+            "employeeCount": null
+          },
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/in/ACwAAAA_o-8BgUajA4O5QwqFA6DfwV8MKh8uQr4",
+              "type": "linkedin"
+            }
+          ],
+          "contacts": {
+            "emails": [],
+            "phones": []
+          },
+          "location": "San Francisco Bay Area",
+          "linkedinUrl": "https://www.linkedin.com/in/ACwAAAA_o-8BgUajA4O5QwqFA6DfwV8MKh8uQr4"
+        },
+        {
+          "name": "Reza Rassool",
+          "title": "Chair, CEO",
+          "company": {
+            "name": "Kwaai",
+            "domain": null,
+            "industry": null,
+            "linkedinUrl": "https://www.linkedin.com/company/96317001",
+            "employeeCount": null
+          },
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/in/ACwAAABZawsBalG18IBIF4xaFdsoSzRuInOeRTA",
+              "type": "linkedin"
+            }
+          ],
+          "contacts": {
+            "emails": [],
+            "phones": []
+          },
+          "location": "Stevenson Ranch, California, United States",
+          "linkedinUrl": "https://www.linkedin.com/in/ACwAAABZawsBalG18IBIF4xaFdsoSzRuInOeRTA"
+        },
+        {
+          "name": "Don Addington",
+          "title": null,
+          "company": null,
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/in/ACwAAAC6ohwB_gc7bnM-jJeq5-6OEI598uCEQec",
+              "type": "linkedin"
+            }
+          ],
+          "contacts": {
+            "emails": [],
+            "phones": []
+          },
+          "location": "Palm Coast, Florida, United States",
+          "linkedinUrl": "https://www.linkedin.com/in/ACwAAAC6ohwB_gc7bnM-jJeq5-6OEI598uCEQec"
+        }
+      ],
+      "meta": {
+        "resultCount": 3,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "0e452637-2f52-4cca-92cd-1e99f5dc308d",
+    "data": {
+      "data": [
+        {
+          "name": "SaaS Labs",
+          "domain": "saaslabs.co",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-labs/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Palo Alto, California",
+          "description": "...work more productive and enjoyable for everyone!  We're a fast-growing tech company with a suite of software solutions...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-labs/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS",
+          "domain": "saas-app.io",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/misr-cloud/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Cairo",
+          "description": "SAAS for digital content   founded in 2022 , our mission & target is to help & transform companies to digitize...",
+          "linkedinUrl": "https://www.linkedin.com/company/misr-cloud/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Partners",
+          "domain": "saaspartners.io",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saaspartnersio/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Lexington, Kentucky",
+          "description": "SaaS Partners was founded in early 2017 with the idea that companies needed additional help when they were presented with the option to build their own app, website or need custom software. New entrepreneurs tend to panic about building...",
+          "linkedinUrl": "https://www.linkedin.com/company/saaspartnersio/",
+          "employeeCount": null
+        },
+        {
+          "name": "Software Answers, Inc.",
+          "domain": "softwareanswers.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/softwareanswers/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Atlanta, Georgia",
+          "description": "Software Answers is leader in Property Management Systems built specifically for long-term stay accommodation providers...",
+          "linkedinUrl": "https://www.linkedin.com/company/softwareanswers/",
+          "employeeCount": null
+        },
+        {
+          "name": "Software Prophets",
+          "domain": "softwareprophets.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/software-prophets/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Painesville, Ohio",
+          "description": "• Helping companies (with revenues between $10M-$250M) achieve data clarity and prepare for AI adoption through the AI Readiness Jumpstart Package.  • Our signature AI Readiness Jumpstart Package transforms raw, fragmented data...",
+          "linkedinUrl": "https://www.linkedin.com/company/software-prophets/",
+          "employeeCount": null
+        }
+      ],
+      "meta": {
+        "resultCount": 5,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "53e33ccf-d835-4306-aadb-46fca0838158",
+    "data": {
+      "data": [],
+      "meta": {
+        "resultCount": 0,
+        "providerOutcome": "empty_clean",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "9a78ebe2-a482-4d78-922b-2bc27fca31dc",
+    "data": {
+      "data": [
+        {
+          "name": "SaaS Labs",
+          "domain": "saaslabs.co",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-labs/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Palo Alto, California",
+          "description": "...work more productive and enjoyable for everyone!  We're a fast-growing tech company with a suite of software solutions...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-labs/",
+          "employeeCount": null
+        },
+        {
+          "name": "Saas and Enterprise Software Company",
+          "domain": "google.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-and-enterprise-software-company/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": null,
+          "description": "We are a SaaS company launching our product in North America imminently. It is a Web-accessible system for managing...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-and-enterprise-software-company/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Summit Benelux",
+          "domain": "saassummit.io",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-summit-benelux/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Benelux",
+          "description": "We believe one conversation or one insight can dramatically increase your chances of success. That's why we've initiated this full-day SaaS Summit for SaaS founders and C-level executives of Benelux-based SaaS companies.",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-summit-benelux/",
+          "employeeCount": null
+        },
+        {
+          "name": "Folio3 Software",
+          "domain": "folio3.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/folio3/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "San Mateo, California",
+          "description": "Folio3 is a California based software development company that helps entrepreneurs and large corporations build innovative, world class software solutions by providing offshore application development and support.    We specialize...",
+          "linkedinUrl": "https://www.linkedin.com/company/folio3/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Production",
+          "domain": "saas-production.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-production/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "LUNAS",
+          "description": "At SaaS Production, our aim is to deliver excellent software solutions that are reliable, scalable and tailored...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-production/",
+          "employeeCount": null
+        }
+      ],
+      "meta": {
+        "resultCount": 5,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "9bc859d1-9efa-4c0c-b647-5c86d5c5232b",
+    "data": {
+      "data": [],
+      "meta": {
+        "resultCount": 0,
+        "providerOutcome": "empty_clean",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "6b82a90f-7481-4e36-8c6b-da5db0eb3a1e",
+    "data": {
+      "data": [
+        {
+          "name": "SaaS Labs",
+          "domain": "saaslabs.co",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-labs/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Palo Alto, California",
+          "description": "...work more productive and enjoyable for everyone!  We're a fast-growing tech company with a suite of software solutions, adored by businesses of every scale...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-labs/",
+          "employeeCount": null
+        },
+        {
+          "name": "SAAS Berkeley",
+          "domain": "saas.berkeley.edu",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saasberkeley/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Berkeley, California",
+          "description": "..., our organization has helped clients make sustainable business and technology optimizations with companies such as Taco Bell and Indeed.  SAAS alumni can be found...",
+          "linkedinUrl": "https://www.linkedin.com/company/saasberkeley/",
+          "employeeCount": null
+        },
+        {
+          "name": "SaaS Partners",
+          "domain": "saaspartners.io",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saaspartnersio/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Lexington, Kentucky",
+          "description": "SaaS Partners was founded in early 2017 with the idea that companies needed additional help when they were presented with the option to build their own app, website or need custom software. New entrepreneurs tend to panic about building their own products while also not recognizing how time consuming it is. We make...",
+          "linkedinUrl": "https://www.linkedin.com/company/saaspartnersio/",
+          "employeeCount": null
+        },
+        {
+          "name": "Saas and Enterprise Software Company",
+          "domain": "google.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/saas-and-enterprise-software-company/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": null,
+          "description": "We are a SaaS company launching our product in North America imminently. It is a Web-accessible system for managing, editing and producing branded print...",
+          "linkedinUrl": "https://www.linkedin.com/company/saas-and-enterprise-software-company/",
+          "employeeCount": null
+        },
+        {
+          "name": "Exact",
+          "domain": "exact.com",
+          "signals": [
+            {
+              "type": "hiring",
+              "scope": "company",
+              "status": "unknown",
+              "summary": "No evidence was collected for hiring.",
+              "evidence": []
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.linkedin.com/company/exact/",
+              "type": "linkedin"
+            }
+          ],
+          "industry": "Software Development",
+          "location": "Delft, ZH",
+          "description": "....      More than 675,000 companies, mainly in the Netherlands, Belgium and Germany, now rely on our software. Exact was founded in Delft in 1984, which is still the location...",
+          "linkedinUrl": "https://www.linkedin.com/company/exact/",
+          "employeeCount": null
+        }
+      ],
+      "meta": {
+        "resultCount": 5,
+        "providerOutcome": "hit",
+        "providerFailures": 0
+      }
+    }
+  },
+  {
+    "operationId": "b2826920-9d27-410d-931a-66c8f6d33d3f",
+    "data": {
+      "data": [],
+      "meta": {
+        "resultCount": 0,
+        "providerOutcome": "empty_clean",
+        "providerFailures": 0
+      }
+    }
+  }
+]
